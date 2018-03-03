@@ -42,11 +42,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	</div>
 <!-- header -->
 
-<div style="background:url(images/2.jpg);">
-<div>
-<div style="background:url(images/3.jpg);">
-<div>
+<img src="images/2.jpg" class="img-responsive" alt=""/>
 
+<img src="images/3.jpg" class="img-responsive" alt=""/>
 
 
 <!-- product -->
@@ -86,6 +84,14 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									<div class="tab-1 resp-tab-content" aria-labelledby="tab_item-0">
 										<div class="tab_img">
 												<div class="col-md-3 img-top ">
+												   <a href="images/4.jpg" rel="title" class="b-link-stripe b-animate-go  swipebox">
+													<img src="images/4.jpg" class="img-responsive" alt=""/>
+														 <div class="link-top">
+														 <i class="link"> </i>
+														 </div>
+												   </a>
+												</div>
+												<div class="col-md-3 img-top ">
 												   <a href="images/5.jpg" rel="title" class="b-link-stripe b-animate-go  swipebox">
 													<img src="images/5.jpg" class="img-responsive" alt=""/>
 														 <div class="link-top">
@@ -123,6 +129,14 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									</div>
 									<div class="tab-1 resp-tab-content" aria-labelledby="tab_item-1">
 										<div class="tab_img">
+												<div class="col-md-3 img-top ">
+												   <a href="images/9.jpg" rel="title" class="b-link-stripe b-animate-go  swipebox">
+													<img src="images/9.jpg" class="img-responsive" alt=""/>
+														 <div class="link-top">
+														 <i class="link"> </i>
+														 </div>
+												   </a>
+												</div>
 												<div class="col-md-3 img-top ">
 												   <a href="images/10.jpg" rel="title" class="b-link-stripe b-animate-go  swipebox">
 													<img src="images/10.jpg" class="img-responsive" alt=""/>
@@ -168,6 +182,14 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									</div>
 									<div class="tab-1 resp-tab-content" aria-labelledby="tab_item-2">
 										<div class="tab_img">
+												<div class="col-md-3 img-top ">
+												   <a href="images/15.jpg" rel="title" class="b-link-stripe b-animate-go  swipebox">
+													<img src="images/15.jpg" class="img-responsive" alt=""/>
+														 <div class="link-top">
+														 <i class="link"> </i>
+														 </div>
+												   </a>
+												</div>
 												
 												<div class="col-md-3 img-top ">
 												   <a href="images/16.jpg" rel="title" class="b-link-stripe b-animate-go  swipebox">
@@ -184,6 +206,14 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									</div>
 									<div class="tab-1 resp-tab-content" aria-labelledby="tab_item-3">
 										<div class="tab_img">
+												<div class="col-md-3 img-top ">
+												   <a href="images/17.jpg" rel="title" class="b-link-stripe b-animate-go  swipebox">
+													<img src="images/17.jpg" class="img-responsive" alt=""/>
+														 <div class="link-top">
+														 <i class="link"> </i>
+														 </div>
+												   </a>
+												</div>
 												<div class="col-md-3 img-top ">
 												   <a href="images/18.jpg" rel="title" class="b-link-stripe b-animate-go  swipebox">
 													<img src="images/18.jpg" class="img-responsive" alt=""/>
@@ -334,6 +364,14 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									</div>	
 									<div class="tab-1 resp-tab-content" aria-labelledby="tab_item-4">
 										<div class="tab_img">
+												<div class="col-md-3 img-top ">
+												   <a href="images/37.jpg" rel="title" class="b-link-stripe b-animate-go  swipebox">
+													<img src="images/37.jpg" class="img-responsive" alt=""/>
+														 <div class="link-top">
+														 <i class="link"> </i>
+														 </div>
+												   </a>
+												</div>
 												<div class="col-md-3 img-top ">
 												   <a href="images/37.jpg" rel="title" class="b-link-stripe b-animate-go  swipebox">
 													<img src="images/37.jpg" class="img-responsive" alt=""/>
