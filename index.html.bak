@@ -71,7 +71,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								</script>
 							<!-- Portfolio Ends Here -->
 						<div class="sap_tabs">
-							<div id="horizontalTab" style="display: block; width: 100%; margin: 0px;">
+							<div id="horizontalTab" style="display: block; height 100%; margin: 0px;">
 								  <ul class="resp-tabs-list">
 									  <li class="resp-tab-item" aria-controls="tab_item-0" role="tab"><span>ICON设计</span></li>
 									  <li class="resp-tab-item" aria-controls="tab_item-1" role="tab"><span>APP设计</span></li>
@@ -172,6 +172,14 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 												<div class="col-md-3 img-top ">
 												   <a href="images/14.jpg" rel="title" class="b-link-stripe b-animate-go  swipebox">
 													<img src="images/14.jpg" class="img-responsive" alt=""/>
+														 <div class="link-top">
+														 <i class="link"> </i>
+														 </div>
+												   </a>
+												</div>	
+												<div class="col-md-3 img-top ">
+												   <a href="images/mygif2.gif" rel="title" class="b-link-stripe b-animate-go  swipebox">
+													<img src="images/mygif2.gif" class="img-responsive" alt=""/>
 														 <div class="link-top">
 														 <i class="link"> </i>
 														 </div>
@@ -365,8 +373,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									<div class="tab-1 resp-tab-content" aria-labelledby="tab_item-4">
 										<div class="tab_img">
 												<div class="col-md-3 img-top ">
-												   <a href="images/37.jpg" rel="title" class="b-link-stripe b-animate-go  swipebox">
-													<img src="images/37.jpg" class="img-responsive" alt=""/>
+												   <a href="images/36.jpg" rel="title" class="b-link-stripe b-animate-go  swipebox">
+													<img src="images/36.jpg" class="img-responsive" alt=""/>
 														 <div class="link-top">
 														 <i class="link"> </i>
 														 </div>
