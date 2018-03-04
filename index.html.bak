@@ -71,7 +71,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								</script>
 							<!-- Portfolio Ends Here -->
 						<div class="sap_tabs">
-							<div id="horizontalTab" style="display: block; height 100%; margin: 0px;">
+							<div id="horizontalTab" style="display: block; width: 100%; margin: 0px;">
 								  <ul class="resp-tabs-list">
 									  <li class="resp-tab-item" aria-controls="tab_item-0" role="tab"><span>ICON设计</span></li>
 									  <li class="resp-tab-item" aria-controls="tab_item-1" role="tab"><span>APP设计</span></li>
